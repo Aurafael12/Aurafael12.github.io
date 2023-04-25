@@ -1,1 +1,55 @@
 
+body {
+  
+  background-color:tan;
+  margin: 10% 10%
+}
+h1 {
+  color:;
+  font-size: 35px;
+ 
+}
+
+h2 {
+  color: Blue;
+  font-size: 24px;
+  font-family: Calibri;  
+}
+
+.header {
+  padding-left: 12px;
+  border-bottom: 1px;
+}
+
+.photo {
+width: 200px;
+height: 155px
+object-fit: contain:
+
+}
+
+.profsum {
+border-top:1px solid #dddddd;
+border-bottom:1px solid #dddddd;
+
+}
+.workhistory {
+border-top:1px solid #dddddd;
+border-bottom:1px solid #dddddd;
+}
+
+.skills {
+border:2px solid black;
+padding-left: 20;
+
+}
+
+
+
+
+
+
+
+
+
+
